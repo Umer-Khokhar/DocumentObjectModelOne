@@ -72,6 +72,10 @@ button {
 .btn1 {
     background-color: rgb(0, 204, 255);
 }
+#btn3 {
+    background-color: rgb(252, 255, 49);
+    color: black;
+}
 @media screen and (max-width: 450px) {
     #nav, .view {
         width: 90%;
