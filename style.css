@@ -42,10 +42,8 @@ div {
 #view2 {
     display: none;
     width: 400px;
-    height: 400px;
+    /* height: 500px; */
     background-color: #323046;
-    text-align: center;
-    font-family: comic sans ms;
     box-shadow: 1px .6px 26px whitesmoke;
 }
 h2 {
