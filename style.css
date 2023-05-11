@@ -61,7 +61,7 @@ button {
     cursor: pointer;
 }
 .buttons {
-    /* display: flex; */
+    display: flex;
     text-align: center;
     margin-top: 1rem;
     align-items: center;
